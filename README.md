@@ -1,4 +1,4 @@
-# Caesar Cipher
+# Caesar Cipher / Szyfr Cezara
 
 Java console application enbaling to encrypt and decryte .txt files using Caesar Cipher
 
